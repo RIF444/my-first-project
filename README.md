@@ -14,12 +14,11 @@ A clean, modular foundation for showcasing development projects and skills.
 - **Best Practices** – Clean code and organized file structure
 
 ## 🏗️ Architecture
-my-first-project/
-docs/ # Documentation
-src/ # Source code
-public/ # Static assets
-README.md # Project overview
-.gitignore # Version control rules
+- `docs/` - Documentation
+- `src/` - Source code  
+- `public/` - Static assets
+- `README.md` - Project overview
+- `.gitignore` - Version control rules
 
 ## 📈 Milestones
 - [x] Repository Initialization
