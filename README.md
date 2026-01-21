@@ -1,6 +1,8 @@
 # Project Nexus | Professional Portfolio Starter
 
 A clean, modular foundation for showcasing development projects and skills.
+## 🌐 Live Website
+[View my live site](https://rif444.github.io/my-first-project/)
 
 ## 📊 Dashboard
 - **Status**: Active Development
